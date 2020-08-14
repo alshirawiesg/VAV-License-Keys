@@ -1,1 +1,4 @@
 This is a keyfile saved on Github.
+Version:1.0 CANCEL
+Version:1.1 OK
+Version:2.0 OK
